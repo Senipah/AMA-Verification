@@ -1,9 +1,9 @@
 ---
 name: Verification
 about: Used to associate Github users to Reddit accounts
-title: ''
+title: 'Reddit account verification'
 labels: verification
-assignees: ''
+assignees: 'Senipah'
 
 ---
 
